@@ -1,2 +1,3 @@
 # Education-Inequality
-This project addresses inequality of educational opportunity in U.S. high schools. Specifically focusing on average student performance on the ACT or SAT exams that students take as part of the college application process.
+This project addresses inequality of educational opportunity in U.S. high schools. Specifically focusing on average student performance on the ACT or SAT exams that students take as part of the college application process. The data sets were downloaded 
+The primary data set is the EdGap data set from [EdGap.org](https://www.edgap.org/#5/37.875/-96.987). This data set from 2016 includes information about average ACT or SAT scores for schools and several socioeconomic characteristics of the school district. The secondary data set is basic information about each school from the [National Center for Education Statistics](https://nces.ed.gov/ccd/pubschuniv.asp).
