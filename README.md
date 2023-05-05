@@ -3,3 +3,5 @@ This project aims to tackle the issue of unequal access to education in American
 
 To begin the data analysis, I imported the necessary libraries and loaded the data. After that, I inspected the contents of each data set and converted the data types of columns to the correct types. Then, I selected relevant subsets of the data and renamed the columns. To combine the data sets, I joined the EdGap and school information data frames while keeping relevant columns. To ensure data quality, I identified missing values in the data sets. I crafted a train test split for further analysis and did data imputation to handle missing values.
 My preparation is titled: SF_Education_Inequality_Data_Preparation.ipynb
+
+The file that communicates my analysis is titled: SF -  Analysis Education Inequality
