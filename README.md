@@ -10,3 +10,4 @@ The file that communicates my analysis is titled: SF -  Analysis Education Inequ
 
 In conclusion, our project provides conclusive evidence of a robust relationship between ACT/SAT scores and socioeconomic factors. This is evident from the high accuracy (R2) of our predictions, the statistically significant coefficients associated with these factors, and the measure of accuracy expressed in ACT units. These findings highlight the crucial role of socioeconomic factors in shaping test scores and emphasize the significance of addressing educational inequality through targeted interventions.
 
+Author: Sammuel (Sam) Farias. Seattle University. License: This work is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
